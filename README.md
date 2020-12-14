@@ -68,7 +68,7 @@ Let's create another List
 1. ordered list-item-3
 
 <!------------------------------ Images  ---------------------------->
-![x_icon_png_picture](./x_icon.png)
+![x_icon_png_picture](https://github.com/shanto097/markdown-/blob/main/x_icon.png)
 
 ![x_icon_png_picture](./x_icon.png "x icon")
 
