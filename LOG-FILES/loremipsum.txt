@@ -1,2 +1,0 @@
-## lorem-ipsum
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sem erat, dignissim nec neque ac, aliquet tempus ligula. Sed vel accumsan purus. Sed lacinia malesuada nisi sit amet cursus. Mauris sit amet hendrerit quam. In condimentum efficitur aliquam. Phasellus varius ipsum porttitor lacus tincidunt, nec fermentum nisi ornare. In ac faucibus quam. Duis maximus et neque eget porttitor. Praesent dictum, justo in tristique maximus, diam libero finibus nisi, quis ornare lacus ex ut lorem. Aenean eu velit in elit gravida lobortis.
